@@ -13,5 +13,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[codersrank.io/marcosricardoss]: https://profile.codersrank.io/user/marcosricardoss
-<img src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosricardoss&badges=3&show-avatar=false&style=--header-bg-color:%23000;-border-radius:10px" />
+[![A mushroom-head robot](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=marcosricardoss&badges=3&show-avatar=false&style=--header-bg-color:%23000;-border-radius:10px 'codersrank.io')](https://profile.codersrank.io/user/marcosricardoss)
